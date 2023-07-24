@@ -21,9 +21,9 @@ Take a look at the 64 channel montage from easy cap for actiChamp plus amplifier
 
 ![](P1.png)
 
-Option A: F1, F2
-Option B: F1, F2, AFz, FCz
-Option C: F1, F2, AFz, FCz, AF3, AF4, FC1, FC2
+- [] Option A: F1, F2
+- [] Option B: F1, F2, AFz, FCz
+- [] Option C: F1, F2, AFz, FCz, AF3, AF4, FC1, FC2
 
 - Establishing a neighborhood boundary is tricky (now I know the logic of territory wars). Where does `us` end and `them` begin if you want to think like Sapolsky. Eh, I've gotten off track. Now, think about `Cz`. If you are one of those who thought I was being generous with option C in the previous example, booom!
 
