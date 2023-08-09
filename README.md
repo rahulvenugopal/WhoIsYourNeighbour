@@ -11,7 +11,7 @@ So, I came across this warning in Fieldtrip toolbox website
 - BY the way, mne uses `Delaunay triangulation` for this and I opened my mouth widely on seeing the warning in mne's documentation page
 ![](DelaunayTriangulation.png)
 
-#### If you're also shocked by these crazy little details or thinking what the hell I'm talking about, you might find it helpful to read one of my old [Readme](https://github.com/rahulvenugopal/Learn_NeuralDecoding_for_EEG#motivation-for-tfce)
+#### If you're taken aback by these intricate nuances or wondering what on earth I'm referring to, delving into one of my previous [Readme files](https://github.com/rahulvenugopal/Learn_NeuralDecoding_for_EEG#motivation-for-tfce) could provide some clarity
 
 ## Let's take a step back and examine the issue from its foundation
 Take a look at the 64 channel montage from easy cap for actiChamp plus amplifier from brainproducts
