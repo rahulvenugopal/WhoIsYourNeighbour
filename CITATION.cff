@@ -1,13 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "TFCE cluster setup"
-version: "1.0.0"
-doi: "10.5281/zenodo.15244373"
-date-released: 2025-04-19
+title: TFCE cluster setup
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
   - family-names: Venugopal
     given-names: Rahul
-    orcid: "https://orcid.org/0000-0001-5348-8845"
-    affiliation: "Centre for Consciousness Research"
-repository-code: "https://github.com/rahulvenugopal/WhoIsYourNeighbour"
-license: "MIT"
+    orcid: 'https://orcid.org/0000-0001-5348-8845'
+    affiliation: Centre for Consciousness Research
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15244373
+repository-code: 'https://github.com/rahulvenugopal/WhoIsYourNeighbour'
+abstract: >-
+  This code is used for multiple research works where we
+  define the neighborhood based on the channel location file
+  provided by the EEG amplifier and cap manufacturers
+keywords:
+  - EEG
+  - TFCE
+  - Cluster stats
+license: MIT
+version: 1.0.0
+date-released: '2025-04-19'
+doi: 10.5281/zenodo.15244373
